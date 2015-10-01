@@ -14,7 +14,6 @@ djangocms-flash==0.2.0
 djangocms-googlemap==0.3
 djangocms-inherit==0.1
 djangocms-installer==0.8.0
-djangocms-link==1.7.0.dev1
 djangocms-picture==0.1
 djangocms-style==1.5
 djangocms-teaser==0.1
